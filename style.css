@@ -46,11 +46,10 @@ h1 {
 
   /* The message box is shown when the user clicks on the password field */
   #message {
-    width: 577px;
+    width: 530px;
     display:none;
     background: #f1f1f1;
-    color: #000;
-    position: relative;
+    color: #000;;
     padding: 20px;
     margin-top: 10px;
     position: absolute;
